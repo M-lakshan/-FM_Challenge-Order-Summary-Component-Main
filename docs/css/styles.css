@@ -1,0 +1,399 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;600;700&family=Red+Hat+Display:wght@500;700;900&display=swap");
+footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+footer .attribution {
+  text-align: center;
+  padding-top: 24px;
+  opacity: 0%;
+  -webkit-transition: 250ms ease;
+  transition: 250ms ease;
+  margin-top: -45px;
+}
+
+footer .attribution:hover {
+  cursor: pointer;
+  -webkit-transition: 250ms ease;
+  transition: 250ms ease;
+  font-size: 12px;
+  padding-top: 0px;
+  height: 24px;
+  opacity: 100%;
+}
+
+footer .attribution a {
+  color: #3e52a3;
+}
+
+@media screen and (min-width: 1080px) {
+  footer .attribution {
+    text-align: center;
+    padding-top: 35px;
+    height: 20px;
+    opacity: 0%;
+    -webkit-transition: 250ms ease;
+    transition: 250ms ease;
+  }
+  footer .attribution:hover {
+    cursor: pointer;
+    -webkit-transition: 250ms ease;
+    transition: 250ms ease;
+    font-size: 12px;
+    margin-bottom: 5px;
+    opacity: 100%;
+  }
+  footer .attribution a {
+    color: #3e52a3;
+  }
+}
+
+*, *::after, *::before {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  background: #e0e8ff;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  height: 90vh;
+  width: 100%;
+  font-family: 'Red Hat Display', sans-serif;
+  background: url("../images/pattern-background-mobile.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+@media screen and (min-width: 1440px) {
+  main {
+    background: url("../images/pattern-background-desktop.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 90vh;
+    padding-bottom: 10px;
+  }
+}
+
+main .component {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  background: white;
+  -webkit-box-shadow: 0px 10px 30px 0px rgba(56, 41, 224, 0.15);
+          box-shadow: 0px 10px 30px 0px rgba(56, 41, 224, 0.15);
+  border-radius: 20px;
+  overflow: hidden;
+  height: 568px;
+  width: 326px;
+}
+
+main .component .top #title_img {
+  width: 326px;
+  height: auto;
+}
+
+main .component .top h1 {
+  font-size: 22px;
+  text-align: center;
+  margin: 28px 60px 16px;
+  font-weight: 900;
+  color: #1f2f56;
+}
+
+main .component .top .main_parah {
+  color: #7280a7;
+  text-align: center;
+  padding: 0px 35px 25px;
+  font-size: 15px;
+  line-height: 25px;
+}
+
+main .component .middle {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  height: 80px;
+  width: 278px;
+  background: #f5f7ff;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+main .component .middle .selection {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 140px;
+  padding: 15px;
+}
+
+main .component .middle .selection h5 {
+  font-size: 14px;
+  font-weight: 900;
+  margin-bottom: 3px;
+  color: #1f2f56;
+}
+
+main .component .middle .selection p {
+  font-size: 14px;
+  color: #7280a7;
+}
+
+main .component .middle a {
+  color: #3829e0;
+  font-size: 13px;
+  font-weight: 700;
+  text-underline-offset: 1px;
+  -webkit-transition: 300ms ease;
+  transition: 300ms ease;
+}
+
+main .component .middle a:hover {
+  cursor: pointer;
+  color: rgba(56, 41, 224, 0.8);
+  -webkit-transition: 300ms ease;
+  transition: 300ms ease;
+  text-decoration: none;
+}
+
+main .component .bottom {
+  width: 278px;
+}
+
+main .component .bottom button {
+  width: 100%;
+  height: 50px;
+  font-size: 15px;
+  font-family: 'Red Hat Display', sans-serif;
+  font-weight: 700;
+  border: none;
+}
+
+main .component .bottom #proceed {
+  color: white;
+  background: #3829e0;
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 10px 20px 2px rgba(56, 41, 224, 0.3);
+          box-shadow: 0px 10px 20px 2px rgba(56, 41, 224, 0.3);
+  margin: 25px 0px 0px;
+  -webkit-transition: 300ms ease;
+  transition: 300ms ease;
+}
+
+main .component .bottom #proceed:hover {
+  cursor: pointer;
+  background: rgba(56, 41, 224, 0.8);
+  -webkit-transition: 300ms ease;
+  transition: 300ms ease;
+}
+
+main .component .bottom #suspend {
+  background: none;
+  color: #7280a7;
+  margin: 10px 0px 0px;
+  font-weight: 900;
+  -webkit-transition: 300ms ease;
+  transition: 300ms ease;
+}
+
+main .component .bottom #suspend:hover {
+  cursor: pointer;
+  color: #1f2f56;
+  -webkit-transition: 300ms ease;
+  transition: 300ms ease;
+}
+
+@media screen and (min-width: 1440px) {
+  main .component {
+    height: 698px;
+    width: 452px;
+  }
+  main .component .top #title_img {
+    width: 100%;
+    height: auto;
+  }
+  main .component .top h1 {
+    font-size: 28px;
+    margin: 38px 60px 18px;
+  }
+  main .component .top .main_parah {
+    color: #7280a7;
+    text-align: center;
+    padding: 0px 55px 18px;
+    font-size: 16px;
+    line-height: 26px;
+  }
+  main .component .middle {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    height: 100px;
+    width: 355px;
+    padding: 20px;
+  }
+  main .component .middle .selection {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    width: 350px;
+    padding: 25px 20px;
+  }
+  main .component .middle .selection h5 {
+    font-size: 17px;
+  }
+  main .component .middle .selection p {
+    font-size: 17px;
+    margin-top: 1px;
+  }
+  main .component .middle a {
+    font-size: 14px;
+    font-weight: 700;
+    text-underline-offset: 1px;
+    -webkit-transition: 300ms ease;
+    transition: 300ms ease;
+  }
+  main .component .middle a:hover {
+    cursor: pointer;
+    color: rgba(56, 41, 224, 0.8);
+    -webkit-transition: 300ms ease;
+    transition: 300ms ease;
+    text-decoration: none;
+  }
+  main .component .bottom {
+    width: 355px;
+  }
+  main .component .bottom button {
+    width: 100%;
+    height: 50px;
+    font-size: 15px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 700;
+    border: none;
+  }
+  main .component .bottom #proceed {
+    color: white;
+    background: #3829e0;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 10px 20px 2px rgba(56, 41, 224, 0.3);
+            box-shadow: 0px 10px 20px 2px rgba(56, 41, 224, 0.3);
+    margin: 30px 0px 0px;
+    -webkit-transition: 300ms ease;
+    transition: 300ms ease;
+  }
+  main .component .bottom #proceed:hover {
+    cursor: pointer;
+    background: rgba(56, 41, 224, 0.8);
+    -webkit-transition: 300ms ease;
+    transition: 300ms ease;
+  }
+  main .component .bottom #suspend {
+    background: none;
+    color: #7280a7;
+    margin: 18px 0px 0px;
+    font-weight: 900;
+    -webkit-transition: 300ms ease;
+    transition: 300ms ease;
+  }
+  main .component .bottom #suspend:hover {
+    cursor: pointer;
+    color: #1f2f56;
+    -webkit-transition: 300ms ease;
+    transition: 300ms ease;
+  }
+}
+/*# sourceMappingURL=styles.css.map */
