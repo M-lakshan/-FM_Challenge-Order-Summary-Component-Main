@@ -31,8 +31,8 @@
 
 ### Screenshot
 
-- mobile-version ![mobile-version](http://docs/solutions/Order-Summary-Component-Main-Mobile.png)
-- desktop-version ![desktop-version](http://docs/solutions/Order-Summary-Component-Main-Desktop.png)
+- mobile-version ![mobile-version](./docs/solutions/Order-Summary-Component-Main-Mobile.png)
+- desktop-version ![desktop-version](./docs/solutions/Order-Summary-Component-Main-Desktop.png)
 
 ### Links
 
