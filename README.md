@@ -3,7 +3,7 @@
 # Frontend Mentor - Order Summary Card
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects
-[This is the design preview for the Order Summary Card coding challenge](./%23Order%20Summary%20Component%20Main/%23Frontend%20Mentor/design/desktop-preview.jpg)
+![This is the design preview for the Order Summary Card coding challenge](./%23Order%20Summary%20Component%20Main/%23Frontend%20Mentor/design/desktop-preview.jpg)
 
 
 ## Table of contents    
