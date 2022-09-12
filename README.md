@@ -32,7 +32,7 @@
 ### Screenshot
 
 - mobile-version 
-![mobile-version](./docs/solutions/Order-Summary-Component-Main-Mobile.png)
+![mobile-version](<img src="./docs/solutions/Order-Summary-Component-Main-Mobile.png" width="100" height="auto">)
  
 - desktop-version 
 ![desktop-version](./docs/solutions/Order-Summary-Component-Main-Desktop.png)
