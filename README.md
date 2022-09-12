@@ -35,7 +35,7 @@
 <img src="./docs/solutions/Order-Summary-Component-Main-Mobile.png" width="300" height="auto">
  
 - desktop-version <br/>
-<img src="./docs/solutions/Order-Summary-Component-Main-Desktop.png" width="500" height="auto">
+<img src="./docs/solutions/Order-Summary-Component-Main-Desktop.png" width="600" height="auto">
 
 ### Links
 
