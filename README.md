@@ -2,8 +2,8 @@
 
 # Frontend Mentor - Order Summary Card
 
-![Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects
-![This is the design preview for the Order Summary Card coding challenge](./%23Order%20Summary%20Component%20Main/%23Frontend%20Mentor/design/desktop-preview.jpg)
+[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects
+[This is the design preview for the Order Summary Card coding challenge](./%23Order%20Summary%20Component%20Main/%23Frontend%20Mentor/design/desktop-preview.jpg)
 
 
 ## Table of contents    
@@ -22,7 +22,7 @@
 
 ## Overview
 
-![This is an entry-level NEWBIE-Free challenge that uses only HTML & CSS](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+[This is an entry-level NEWBIE-Free challenge that uses only HTML & CSS](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 
 ## The challenge
 
@@ -31,8 +31,8 @@
 
 ### Screenshot
 
-![mobile-version](./docs/solutions/Order-Summary-Component-Main-Mobile.png)
-![desktop-version](./docs/solutions/Order-Summary-Component-Main-Desktop.png)
+- mobile-version [mobile-version](./docs/solutions/Order-Summary-Component-Main-Mobile.png)
+- desktop-version [desktop-version](./docs/solutions/Order-Summary-Component-Main-Desktop.png)
 
 ### Links
 
