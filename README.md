@@ -32,10 +32,10 @@
 ### Screenshot
 
 - mobile-version 
-![mobile-version]<img src="./docs/solutions/Order-Summary-Component-Main-Mobile.png" width="100" height="auto">
+![]<br/><img src="./docs/solutions/Order-Summary-Component-Main-Mobile.png" width="100" height="auto">
  
 - desktop-version 
-![desktop-version](./docs/solutions/Order-Summary-Component-Main-Desktop.png)
+![]<img src="./docs/solutions/Order-Summary-Component-Main-Desktop.png" width="300" height="auto">
 
 ### Links
 
