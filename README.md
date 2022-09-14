@@ -39,8 +39,8 @@
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/M-lakshan/FM_Challenge-Order-Summary-Component-Main)
-- Live Site URL: [live site URL](https://m-lakshan.github.io/FM_Challenge-Order-Summary-Component-Main/)
+- Solution URL: [Frontend Mentor Solution Page](https://github.com/M-lakshan/FM_Challenge-Order-Summary-Component-Main)
+- Live Site URL: [GitHub Pages](https://m-lakshan.github.io/FM_Challenge-Order-Summary-Component-Main/)
 
 ## My process
 
